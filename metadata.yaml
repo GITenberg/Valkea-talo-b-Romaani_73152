@@ -1,0 +1,46 @@
+_repo: Valkea-talo-b-Romaani_73152
+_version: 0.0.1
+alternative_title: Det hvide Hus. Finnish
+contributor:
+  translators:
+  - agent_name: Kouta, Aarni
+    alias: Candolin, Arnold Elias
+    birthdate: 1884
+    deathdate: 1924
+    gutenberg_agent_id: '7932'
+    url: http://www.gutenberg.org/2009/agents/7932
+    wikipedia: https://fi.wikipedia.org/wiki/Aarni_Kouta
+  - agent_name: Wecksell, Helmi
+    gutenberg_agent_id: '56963'
+    url: http://www.gutenberg.org/2009/agents/56963
+creator:
+  author:
+    agent_name: Bang, Herman
+    alias: Bang, Herman Joachim
+    birthdate: 1857
+    deathdate: 1912
+    gutenberg_agent_id: '3638'
+    url: http://www.gutenberg.org/2009/agents/3638
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Herman_Bang
+    - https://da.wikipedia.org/wiki/Herman_Bang
+description: ''
+gutenberg_issued: '2024-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73152'
+language: fi
+pgterms:marc905: 20211116084951bang
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Ahjo, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Valkea talo : $b Romaani'
+url: http://www.gutenberg.org/ebooks/73152
