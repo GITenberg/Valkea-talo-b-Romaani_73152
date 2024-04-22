@@ -13,6 +13,9 @@ contributor:
   - agent_name: Wecksell, Helmi
     gutenberg_agent_id: '56963'
     url: http://www.gutenberg.org/2009/agents/56963
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bang, Herman
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Herman_Bang
     - https://da.wikipedia.org/wiki/Herman_Bang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73152#Valkea-talo-b-Romaani
 gutenberg_issued: '2024-03-12'
 gutenberg_type: Text
 identifiers:
